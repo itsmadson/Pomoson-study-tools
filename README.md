@@ -5,4 +5,3 @@ When it comes to studying or focusing on a particular task, especially when I wa
 Based on my experiences, I created this app to solve this problem, and now I'm sharing it with others in the hope that it might help them too.  
   
 \____________________________________________________________________________________\_  
-  
