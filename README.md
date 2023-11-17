@@ -6,4 +6,3 @@ Based on my experiences, I created this app to solve this problem, and now I'm s
   
 \____________________________________________________________________________________\_  
   
-![E:\\Pomoson\\banner insta.png](media/95c63523b7fea104e9a528c9ca7620a8.png)
